@@ -1,12 +1,22 @@
-## Hi there 👋 Here's ZYPC-Sec.
+## 智邮普创工作室安全组
 
+智邮普创工作室是伴随西安邮电大学数据中心的建设而成立的一支专注于数字化校园建设的学生技术团队。
 
+团队硬件条件优越，研究各种前沿计算机技术，致力于通过网络化与信息化技术，推动我校信息化发展。
 
-**Here are some ideas to get you started:**
+**智邮普创安全组**以渗透和二进制安全为主要研究方向，系统掌握各种网络安全的基本理论和关键技术，平时以各类CTF竞赛为辅进行学习，能够完成一定程度的安全运维工作。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+### 22级成员
 
+- Fault
+- Jhin
+- Lingyu
+- Daaihang
+- hunzi
+- k1seme4
+
+### 23级成员
+
+- Auto
+- TUTo
+- dmw
