@@ -13,10 +13,15 @@
 - Lingyu
 - Daaihang
 - hunzi
-- k1seme4
+- k1sme4
 
 ### 23级成员
 
-- Auto
+- Monoceros406
+- g0ubu1i
+- waterbucket
 - TUTo
 - dmw
+- qingjiaaaaaa
+- Wald
+- MingYi
