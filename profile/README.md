@@ -30,4 +30,12 @@
 - Wald
 - MingYi
 
-### 24级成员（考核期ing...）
+### 24级成员
+
+- Yogurt
+- hanafuda_store
+- LNexaminee
+- aye_hoyosei
+- Perplexity
+- Shone
+- Starfish
